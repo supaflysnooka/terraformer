@@ -108,7 +108,7 @@ require (
 	github.com/denisenkom/go-mssqldb v0.10.0 // indirect
 	github.com/denverdino/aliyungo v0.0.0-20200327235253-d59c209c7e93
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
-	github.com/digitalocean/godo v1.57.0
+	github.com/digitalocean/godo v1.77.0
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/dollarshaveclub/new-relic-synthetics-go v0.0.0-20170605224734-4dc3dd6ae884
 	github.com/duosecurity/duo_api_golang v0.0.0-20201112143038-0e07e9f869e3 // indirect
@@ -338,6 +338,7 @@ require (
 )
 
 require github.com/PuerkitoBio/rehttp v1.0.0 // indirect
+
 require github.com/peterhellberg/link v1.1.0 // indirect
 
 replace gopkg.in/jarcoal/httpmock.v1 => github.com/jarcoal/httpmock v1.0.5
